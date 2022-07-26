@@ -23,7 +23,6 @@ Please add to your document each of the following:
    - links to Wikipedia page location
    - annotate with alt-text
 5. A few images stitched together as sub-figures of a larger plot with the following layout and attributes:
-   - centered
    - captioned (main figure and sub-figures)
    - annotated with alt-text
 6. An inline or block element as margin content (e.g. list, image, text). 
